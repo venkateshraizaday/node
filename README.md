@@ -1,2 +1,2 @@
 # node
-Node practice
+Node.js practice
