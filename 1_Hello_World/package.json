@@ -1,0 +1,22 @@
+{
+  "name": "1_hello_world",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshraizaday/node.git"
+  },
+  "author": "Venkatesh Raizaday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshraizaday/node/issues"
+  },
+  "homepage": "https://github.com/venkateshraizaday/node#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
