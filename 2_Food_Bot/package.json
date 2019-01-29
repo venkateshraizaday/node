@@ -1,0 +1,18 @@
+{
+  "name": "2_food_bot",
+  "version": "1.0.0",
+  "description": "Using command line inerface",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venkateshraizaday/node/2_Food_Bot"
+  },
+  "author": "Venkatesh Raizaday",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  }
+}
