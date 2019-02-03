@@ -8,3 +8,5 @@ http.createServer((req,res) => {
 	let HTML = fs.readFileSync(`${__dirname}/index.html`)	
 	res.end(HTML);
 }).listen(8081, '127.0.0.1')
+
+console.log('Server is running!!!')
